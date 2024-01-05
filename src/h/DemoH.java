@@ -1,5 +1,7 @@
 package h;
-
+//	method iterates through the input string and checks each pair of consecutive characters.
+//	If the pair is equal to "hi," it increments the count.
+//	The method returns the total count of occurrences of "hi" in the given string.
 public class DemoH {
 	
 	    public static void main(String[] args) {
